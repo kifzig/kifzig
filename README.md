@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kifzig
+- 👋 Hi, I’m @kifzig or Kiffany
 - 👀 I’m interested in learning Python, Tableau, SQL, and devlops
 - 🌱 I’m currently learning how to use Python with SQL. I'm in the Nucamp Backend Development bootcamp.
 - 💞️ I’m looking to collaborate on data projects.
